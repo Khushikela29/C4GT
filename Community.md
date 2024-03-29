@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Khushi</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Khushikela29</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/khushi-kela-a3699122b/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Yeshwantrao Chavan College of Engineering</td>
+      </tr>
+    </table>
